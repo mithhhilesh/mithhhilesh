@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mithlesh-yeole01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithlesh-yeole01" height="30" width="40" /></a>
 <a href="https://kaggle.com/mithhhilesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mithhhilesh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mithhhilesh" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="mithhhilesh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mithhhilesh" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="mithhhilesh" height="30" width="60" /></a>
 <a href="https://codeforces.com/profile/mithhhilesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mithhhilesh1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mithhhilesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithhhilesh" height="30" width="40" /></a>
 </p>
