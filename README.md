@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithhhilesh" alt="mithhhilesh" /></a> </p>
 
-- 🌱 I’m currently learning **DSA using Java and Scikit with Python**
+- 🌱 I'm currently learning **Data Structures and Algorithms (DSA) using Java, and Scikit-learn with Python.**
 
 - 📫 How to reach me **mithlesh.yeole27@gmail.com**
 
