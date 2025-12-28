@@ -87,35 +87,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithhhilesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithhhilesh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://leetcode-stats-api.vercel.app/mithhhilesh?theme=dark" alt="LeetCode Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithhhilesh&theme=tokyonight&no-frame=true&margin-w=6&row=1" />
-</div>
-
----
-
-## 📈 Consistency
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mithhhilesh&theme=tokyonight" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
