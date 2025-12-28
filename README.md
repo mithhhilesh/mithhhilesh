@@ -14,21 +14,38 @@
 
 ## 🚀 About Me
 
-```python
-class Mithlesh:
-    def __init__(self):
-        self.username = "mithhhilesh"
-        self.role = "Computer Science Sophomore"
-        self.location = "Nagpur, India"
-        self.interests = ["Algorithms", "Data Structures", "Competitive Programming"]
-        self.currently_learning = ["Advanced DSA", "Machine Learning"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<table>
+<tr>
+<td width="50%">
 
-me = Mithlesh()
-me.say_hi()
+### 👨‍💻 Quick Facts
+
+- 🎓 Computer Science Sophomore
+- 📍 Based in Nagpur, India
+- 🧠 Passionate about solving complex problems
+- 💡 Love turning ideas into code
+- 🌱 Currently diving deep into DSA & ML
+- ⚡ Fun fact: I debug with coffee ☕
+
+</td>
+<td width="50%">
+
+### 🎯 Focus Areas
+
 ```
+├── 📊 Data Structures
+├── 🧮 Algorithms
+├── 🏆 Competitive Programming
+├── 🤖 Machine Learning
+├── 🔍 Problem Solving
+└── 💻 Software Development
+```
+
+</td>
+</tr>
+</table>
+
+> 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
 
@@ -119,6 +136,14 @@ me.say_hi()
 ### 💭 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ✨ Thanks for visiting!
+
+![Snake animation](https://raw.githubusercontent.com/mithhhilesh/mithhhilesh/output/github-contribution-grid-snake-dark.svg)
+
+**Show some ❤️ by starring some of the repositories!**
+
+</div>
 
 ### ✨ Thanks for visiting!
 
