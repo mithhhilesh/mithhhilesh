@@ -1,13 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Mithlesh Yeole
-
-### 🎯 Computer Science Sophomore | Problem Solver | Code Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Building+solutions+one+line+at+a+time;Passionate+about+algorithms+%26+DSA;Always+learning%2C+always+improving" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=mithhhilesh&style=flat-square&color=blueviolet)
-
+# 👋 Hey, I'm Mithlesh Yeole
 </div>
 
 ---
@@ -26,24 +19,9 @@
 </td>
 <td width="50%">
 
-### 🎯 Focus Areas
-├── 📊 Data Structures & Algorithms
-
-├── 🔍 Problem Solving
-
-└── 💻 Web Development
-
-
 </td>
 </tr>
 </table>
-
----
-
-## 🌟 Highlights
-- 📈 Consistently improving problem-solving skills
-- 🛠️ Hands-on with **Java, Python & C**
-- 🤖 Exploring **"wherever interest strikes"**
 
 ---
 
@@ -72,21 +50,6 @@
 
 ---
 
-## 💻 Competitive Programming (on a break)
-
-<div align="center">
-
-| Platform | Profile | Focus |
-|--------|---------|-------|
-| 🏆 **LeetCode** | [@mithhhilesh](https://leetcode.com/mithhhilesh) | DSA Practice |
-| 🎯 **CodeChef** | [@mithhhilesh](https://www.codechef.com/users/mithhhilesh) | Contests |
-| 🔥 **Codeforces** | [@mithhhilesh1](https://codeforces.com/profile/mithhhilesh1) | Rating Growth |
-| 📊 **Kaggle** | [@mithhhilesh](https://kaggle.com/mithhhilesh) | ML & Data |
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -103,12 +66,7 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### ✨ Thanks for Visiting!
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-⭐ **If you like my work, consider starring a repo!**
 
 </div>
