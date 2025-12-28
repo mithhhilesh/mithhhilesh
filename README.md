@@ -4,7 +4,7 @@
 
 ### 🎯 Computer Science Sophomore | Problem Solver | Code Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+solutions+one+line+at+a+time;Passionate+about+algorithms;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Building+solutions+one+line+at+a+time;Passionate+about+algorithms+%26+DSA;Always+learning%2C+always+improving" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mithhhilesh&style=flat-square&color=blueviolet)
 
@@ -19,28 +19,33 @@
 <td width="50%">
 
 ### 👨‍💻 Quick Facts
-
-- 🎓 Computer Science Sophomore
-- 📍 Based in Nagpur, India
-- 🧠 Passionate about solving complex problems
-- 🌱 Currently diving deep into DSA & JAVA
+- 🎓 Computer Science Sophomore  
+- 📍 Nagpur, India  
+- 🧠 Strong interest in **DSA & Competitive Programming**  
+- 🌱 Currently learning **Java, DSA & Web Development**  
+- ☕ Debugs best with coffee  
 
 </td>
 <td width="50%">
 
 ### 🎯 Focus Areas
-
-```
-├── 📊 Data Structures
-├── 🧮 Algorithms
+├── 📊 Data Structures & Algorithms
+├── 🧮 Competitive Programming
 ├── 🔍 Problem Solving
-└── 💻 Web Devlopment
-```
+└── 💻 Web Development
+
 
 </td>
 </tr>
 </table>
 
+---
+
+## 🌟 Highlights
+- 🏆 Active on **LeetCode, CodeChef & Codeforces**
+- 📈 Consistently improving problem-solving skills
+- 🛠️ Hands-on with **Java, Python & C**
+- 🤖 Exploring **Machine Learning fundamentals**
 
 ---
 
@@ -73,12 +78,12 @@
 
 <div align="center">
 
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| 🏆 **LeetCode** | [@mithhhilesh](https://leetcode.com/mithhhilesh) | ![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode) |
-| 🎯 **CodeChef** | [@mithhhilesh](https://www.codechef.com/users/mithhhilesh) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) |
-| 🔥 **Codeforces** | [@mithhhilesh1](https://codeforces.com/profile/mithhhilesh1) | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white) |
-| 📊 **Kaggle** | [@mithhhilesh](https://kaggle.com/mithhhilesh) | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) |
+| Platform | Profile | Focus |
+|--------|---------|-------|
+| 🏆 **LeetCode** | [@mithhhilesh](https://leetcode.com/mithhhilesh) | DSA Practice |
+| 🎯 **CodeChef** | [@mithhhilesh](https://www.codechef.com/users/mithhhilesh) | Contests |
+| 🔥 **Codeforces** | [@mithhhilesh1](https://codeforces.com/profile/mithhhilesh1) | Rating Growth |
+| 📊 **Kaggle** | [@mithhhilesh](https://kaggle.com/mithhhilesh) | ML & Data |
 
 </div>
 
@@ -100,17 +105,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithhhilesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mithhhilesh&theme=tokyonight&no-frame=true&margin-w=6&row=1" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Consistency
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.vercel.app/?user=mithhhilesh&theme=tokyonight" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mithhhilesh&theme=tokyonight" />
 </div>
 
 ---
@@ -119,12 +122,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithlesh-yeole01)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mithhhilesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mithlesh-yeole01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mithhhilesh)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mithhhilesh)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mithhhilesh1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithlesh.yeole27@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/mithhhilesh)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/mithhhilesh1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mithlesh.yeole27@gmail.com)
 
 </div>
 
@@ -133,13 +135,11 @@
 <div align="center">
 
 ### 💭 Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### ✨ Thanks for visiting!
-
+### ✨ Thanks for Visiting!
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-**Show some ❤️ by starring some of the repositories!**
+⭐ **If you like my work, consider starring a repo!**
 
 </div>
