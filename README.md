@@ -21,17 +21,13 @@
 ### 👨‍💻 Quick Facts
 - 🎓 Computer Science Sophomore  
 - 📍 Nagpur, India  
-- 🧠 Strong interest in **DSA & Competitive Programming**  
 - 🌱 Currently learning **Java, DSA & Web Development**  
-- ☕ Debugs best with coffee  
 
 </td>
 <td width="50%">
 
 ### 🎯 Focus Areas
 ├── 📊 Data Structures & Algorithms
-
-├── 🧮 Competitive Programming
 
 ├── 🔍 Problem Solving
 
@@ -45,10 +41,9 @@
 ---
 
 ## 🌟 Highlights
-- 🏆 Active on **LeetCode, CodeChef & Codeforces**
 - 📈 Consistently improving problem-solving skills
 - 🛠️ Hands-on with **Java, Python & C**
-- 🤖 Exploring **Machine Learning fundamentals**
+- 🤖 Exploring **"wherever interest strikes"**
 
 ---
 
@@ -77,7 +72,7 @@
 
 ---
 
-## 💻 Competitive Programming
+## 💻 Competitive Programming (on a break)
 
 <div align="center">
 
