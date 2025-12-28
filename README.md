@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+solutions+one+line+at+a+time;Passionate+about+algorithms;Always+learning+something+new" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mithhhilesh&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/mithhhilesh)
+![Profile Views](https://komarev.com/ghpvc/?username=mithhhilesh&style=flat-square&color=blueviolet)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| 🏆 **LeetCode** | [@mithhhilesh](https://leetcode.com/mithhhilesh) | ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmithhhilesh&logo=leetcode&logoColor=yellow) |
+| 🏆 **LeetCode** | [@mithhhilesh](https://leetcode.com/mithhhilesh) | ![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode) |
 | 🎯 **CodeChef** | [@mithhhilesh](https://www.codechef.com/users/mithhhilesh) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) |
 | 🔥 **Codeforces** | [@mithhhilesh1](https://codeforces.com/profile/mithhhilesh1) | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white) |
 | 📊 **Kaggle** | [@mithhhilesh](https://kaggle.com/mithhhilesh) | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) |
@@ -134,7 +134,7 @@
 
 ### ✨ Thanks for visiting!
 
-![Snake animation](https://raw.githubusercontent.com/mithhhilesh/mithhhilesh/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 **Show some ❤️ by starring some of the repositories!**
 
