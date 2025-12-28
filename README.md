@@ -23,9 +23,7 @@
 - 🎓 Computer Science Sophomore
 - 📍 Based in Nagpur, India
 - 🧠 Passionate about solving complex problems
-- 💡 Love turning ideas into code
-- 🌱 Currently diving deep into DSA & ML
-- ⚡ Fun fact: I debug with coffee ☕
+- 🌱 Currently diving deep into DSA & JAVA
 
 </td>
 <td width="50%">
@@ -35,17 +33,14 @@
 ```
 ├── 📊 Data Structures
 ├── 🧮 Algorithms
-├── 🏆 Competitive Programming
-├── 🤖 Machine Learning
 ├── 🔍 Problem Solving
-└── 💻 Software Development
+└── 💻 Web Devlopment
 ```
 
 </td>
 </tr>
 </table>
 
-> 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
 
