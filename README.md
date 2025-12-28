@@ -30,8 +30,11 @@
 
 ### 🎯 Focus Areas
 ├── 📊 Data Structures & Algorithms
+
 ├── 🧮 Competitive Programming
+
 ├── 🔍 Problem Solving
+
 └── 💻 Web Development
 
 
