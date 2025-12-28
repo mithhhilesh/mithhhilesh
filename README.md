@@ -91,9 +91,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithhhilesh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithhhilesh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://leetcode-stats-api.vercel.app/mithhhilesh?theme=dark" alt="LeetCode Stats" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mithhhilesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -105,7 +109,7 @@
 
 <div align="center">
   
-[![Mithlesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithhhilesh&theme=tokyo-night)](https://github.com/mithhhilesh)
+<img src="https://github-readme-streak-stats.vercel.app/?user=mithhhilesh&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
@@ -135,14 +139,6 @@
 ### ✨ Thanks for visiting!
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-**Show some ❤️ by starring some of the repositories!**
-
-</div>
-
-### ✨ Thanks for visiting!
-
-![Snake animation](https://raw.githubusercontent.com/mithhhilesh/mithhhilesh/output/github-contribution-grid-snake-dark.svg)
 
 **Show some ❤️ by starring some of the repositories!**
 
